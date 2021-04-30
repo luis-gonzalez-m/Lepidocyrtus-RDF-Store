@@ -1,0 +1,3030 @@
+format-version: 1.2
+ontology: http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95
+owl-axioms: Prefix(owl:=<http://www.w3.org/2002/07/owl#>)\nPrefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)\nPrefix(xml:=<http://www.w3.org/XML/1998/namespace>)\nPrefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)\nPrefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)\n\n\nOntology(\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#A0.h>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#A1>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#A2>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#A2.h>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#A3>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#A_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Antennal_segment_3_sense_organ>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#B1>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#B2>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#B_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Be2>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Be3>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Be_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#CAO024a916e_b186_4f80_8e7d_4054ad059448>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#CAO359ffeca_1e43_4e29_b42d_a6f3a5bba1f0>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#CAObbfe2408_ba74_4cca_9438_8922a9d24e0c>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#De_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#E4p2>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#E_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#F2p>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#F_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe1>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe2>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe3>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe5>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Pa4>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Pa5>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Pm1>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#a.ab1_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#a.ab3_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#a.t3_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#a5.t3>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#a7.ab3>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#abdominal_segment_4>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#antennae>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#antennal_segment_1>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#antennal_segment_2>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#antennal_segment_3>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#antennal_segment_4>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#anterior_postoccipital_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#anterior_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#apical_appendage>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#apical_mucronal_teeth>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#basal_appendage>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#basomedian_labial_field>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_A1p.h>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_A2a.h>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Ee10>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Ee12>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Fe6>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pe3>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pe4>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pp1>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pp2>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pp3>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pp4>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pp5>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pp6>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Ps4>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_a1a.ab1>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_a5.ab5>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_a7.t3>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_a8.ab3>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_d3.ab3>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_li1.ab3>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_m5e.ab5>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_m7.ab2>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_mm.ab3>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_p1i.t2>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_p5p.ab2>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s1>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s10>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s11>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s12>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s13>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s14>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s15>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s16>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s17>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s2>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s3>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s4>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s5>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s6>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s7>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s8>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s9>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_v.h>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#clavate>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#collophore>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#dorsal_side>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#external_postoccipital_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#inner_distal_chaeta>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#interocular_chaetae>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#lateral_distal_chaeta>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#length>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#ll.ab2>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m.ab2_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m.ab3_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m.ab5_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m.t2_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m.t3_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m1.lb>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m1.t2>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m2.ab5>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m2.t2>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m3.ab5>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m3.lb>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m3.t3>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m5.ab5>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m7e.ab3>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#manubrium>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#media_postoccipital_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#medial_labral_chaetae>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#mesoleg>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#mesothorax>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#metaleg>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#mi.ab2>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#mucronal_teeth>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#ocellus_C>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#ocellus_F>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#ocellus_G>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#ocellus_H>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p.ab2_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p.t2_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p1.ab5>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p3.ab5>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p3.t2>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p5.ab5>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p5a.ab5>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#papillae_E>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#plurichaetosis>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#posterior_postoccipital_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#postsutural_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#procoxae>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#proleg>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#prosubcoxae>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#proximal_labral_chaetae>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#r_row>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#row_Ee>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#row_a.ab5>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#row_d.ab3>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#s-chaeta>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#scaled>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#sensillum>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#size>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#spinule>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#subdistal_side>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#supplementary_chaetae>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#'chaeta_mm.ab2'>))\nDeclaration(Class(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#'chaeta_p7.ab2'>))\nDeclaration(ObjectProperty(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of>))\nDeclaration(ObjectProperty(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#decreased_in_magnitude_relative_to>))\nDeclaration(ObjectProperty(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#has_part>))\nDeclaration(ObjectProperty(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#inheres_in>))\nDeclaration(ObjectProperty(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#is_approximately_equivalent_to>))\nDeclaration(ObjectProperty(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of>))\nDeclaration(AnnotationProperty(<http://purl.org/dc/elements/1.1/identifier>))\n############################\n#   Annotation Properties\n############################\n\n# Annotation Property: <http://purl.org/dc/elements/1.1/identifier> (<http://purl.org/dc/elements/1.1/identifier>)\n\nSubAnnotationPropertyOf(<http://purl.org/dc/elements/1.1/identifier> rdfs:comment)\n\n\n\n############################\n#   Classes\n############################\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#A0.h> (chaeta A0.h)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#A0.h> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#anterior_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#A1> (chaeta A1)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#A1> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#A_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#A2> (chaeta A2)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#A2> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#A_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#A2.h> (chaeta A2.h)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#A2.h> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#anterior_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#A3> (chaeta A3)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#A3> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#A_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Antennal_segment_3_sense_organ> (Antennal segment 3 sense organ)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Antennal_segment_3_sense_organ> ObjectComplementOf(ObjectIntersectionOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#clavate>) ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#subdistal_side>) ObjectExactCardinality(2 <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#has_part> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#sensillum>))))\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Antennal_segment_3_sense_organ> ObjectComplementOf(ObjectIntersectionOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#spinule>) ObjectExactCardinality(3 <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#has_part> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#sensillum>))))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#B1> (chaeta B1)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#B1> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#B_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#B2> (chaeta B2)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#B2> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#B_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Be2> (chaeta Be2)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Be2> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Be_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Be3> (chaeta Be3)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Be3> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Be_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Be_row> (row Be)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Be_row> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#abdominal_segment_4>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#CAO024a916e_b186_4f80_8e7d_4054ad059448> (guard appendage a3)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#CAO024a916e_b186_4f80_8e7d_4054ad059448> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#papillae_E>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#CAO359ffeca_1e43_4e29_b42d_a6f3a5bba1f0> (guard appendage a7)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#CAO359ffeca_1e43_4e29_b42d_a6f3a5bba1f0> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#papillae_E>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#CAObbfe2408_ba74_4cca_9438_8922a9d24e0c> (guard appendage a5)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#CAObbfe2408_ba74_4cca_9438_8922a9d24e0c> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#papillae_E>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#De_row> (row De)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#De_row> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#abdominal_segment_4>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#E4p2> (chaeta E4p2)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#E4p2> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#E_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#F2p> (chaeta F2p)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#F2p> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#F_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe1> (chaeta Fe1)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe1> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe2> (chaeta Fe2)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe2> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe3> (chaeta Fe3)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe3> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe5> (chaeta Fe5)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe5> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe_row> (row Fe)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe_row> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#abdominal_segment_4>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Pa4> (chaeta Pa4)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Pa4> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#anterior_postoccipital_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Pa5> (chaeta Pa5)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Pa5> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#anterior_postoccipital_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Pm1> (chaeta Pm1)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Pm1> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#media_postoccipital_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#a5.t3> (chaeta a5.t3)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#a5.t3> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#a.t3_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#a7.ab3> (chaeta a7.ab3)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#a7.ab3> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#a.ab3_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#abdominal_segment_4> (abdominal segment 4)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#abdominal_segment_4> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#has_part> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#plurichaetosis>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#antennae> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#antennae>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#antennae> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#scaled>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#antennal_segment_1> (antennal segment 1)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#antennal_segment_1> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#scaled>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#antennal_segment_2> (antennal segment 2)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#antennal_segment_2> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#scaled>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#antennal_segment_3> (antennal segment 3)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#antennal_segment_3> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#scaled>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#antennal_segment_4> (antennal segment 4)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#antennal_segment_4> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#scaled>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#apical_appendage> (apical appendage)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#apical_appendage> ObjectIntersectionOf(ObjectIntersectionOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#inheres_in> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#basal_appendage>) ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#is_approximately_equivalent_to> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#size>)) ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#size>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_A1p.h> (chaeta A1p.h)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_A1p.h> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#anterior_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_A2a.h> (chaeta A2a.h)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_A2a.h> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#anterior_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Ee10> (chaeta Ee12)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Ee10> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#row_Ee>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Ee12> (chaeta Ee10)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Ee12> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#row_Ee>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Fe6> (chaeta Fe6)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Fe6> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#Fe_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pe3> (chaeta Pe3)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pe3> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#external_postoccipital_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pe4> (chaeta Pe4)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pe4> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#external_postoccipital_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pp1> (chaeta Pp1)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pp1> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#posterior_postoccipital_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pp2> (chaeta Pp2)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pp2> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#posterior_postoccipital_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pp3> (chaeta Pp3)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pp3> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#posterior_postoccipital_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pp4> (chaeta Pp4)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pp4> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#posterior_postoccipital_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pp5> (chaeta Pp5)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pp5> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#posterior_postoccipital_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pp6> (chaeta Pp6)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Pp6> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#posterior_postoccipital_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Ps4> (chaeta Ps4)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_Ps4> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#has_part> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#postsutural_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_a1a.ab1> (chaeta a1a.ab1)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_a1a.ab1> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#a.ab1_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_a5.ab5> (chaeta a5.ab5)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_a5.ab5> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#row_a.ab5>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_a7.t3> (chaeta a7.t3)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_a7.t3> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#a.t3_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_a8.ab3> (chaeta a8.ab3)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_a8.ab3> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#a.ab3_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_d3.ab3> (chaeta d3.ab3)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_d3.ab3> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#row_d.ab3>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_li1.ab3> (chaeta li1.ab3)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_li1.ab3> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#supplementary_chaetae>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_m5e.ab5> (chaeta m5a.ab5)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_m5e.ab5> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m.ab5_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_m7.ab2> (chaeta m7.ab2)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_m7.ab2> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m.ab2_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_mm.ab3> (chaeta mm.ab3)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_mm.ab3> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#supplementary_chaetae>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_p1i.t2> (chaeta p1i.t2)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_p1i.t2> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p.t2_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_p5p.ab2> (chaeta p5p.ab2)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_p5p.ab2> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p.ab2_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s1> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s1>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s1> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#s-chaeta>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s10> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s10>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s10> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#s-chaeta>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s11> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s11>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s11> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#s-chaeta>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s12> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s12>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s12> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#s-chaeta>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s13> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s13>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s13> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#s-chaeta>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s14> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s14>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s14> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#s-chaeta>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s15> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s15>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s15> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#s-chaeta>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s16> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s16>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s16> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#s-chaeta>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s17> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s17>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s17> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#s-chaeta>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s2> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s2>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s2> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#s-chaeta>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s3> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s3>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s3> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#s-chaeta>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s4> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s4>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s4> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#s-chaeta>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s5> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s5>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s5> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#s-chaeta>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s6> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s6>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s6> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#s-chaeta>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s7> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s7>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s7> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#s-chaeta>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s8> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s8>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s8> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#s-chaeta>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s9> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s9>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_s9> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#s-chaeta>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_v.h> (chaeta v.h)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#chaeta_v.h> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#interocular_chaetae>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#collophore> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#collophore>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#collophore> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#scaled>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#inner_distal_chaeta> (inner distal chaeta)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#inner_distal_chaeta> ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#decreased_in_magnitude_relative_to> ObjectIntersectionOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#length> ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#inheres_in> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#lateral_distal_chaeta>))))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#ll.ab2> (chaeta ll.ab2)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#ll.ab2> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#supplementary_chaetae>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m1.lb> (chaeta m1.lb)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m1.lb> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#basomedian_labial_field>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m1.t2> (chaeta m1.t2)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m1.t2> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m.t2_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m2.ab5> (chaeta m2.ab5)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m2.ab5> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m.ab5_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m2.t2> (chaeta m2.t2)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m2.t2> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m.t2_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m3.ab5> (chaeta m3.ab5)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m3.ab5> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m.ab5_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m3.lb> (chaeta m3.lb)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m3.lb> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#basomedian_labial_field>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m3.t3> (chaeta m3.t3)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m3.t3> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m.t3_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m5.ab5> (chaeta m5.ab5)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m5.ab5> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m.ab5_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m7e.ab3> (chaeta m7e.ab3)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m7e.ab3> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m.ab3_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#manubrium> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#manubrium>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#manubrium> ObjectComplementOf(ObjectIntersectionOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#dorsal_side>) ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#scaled>))))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#mesoleg> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#mesoleg>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#mesoleg> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#scaled>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#metaleg> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#metaleg>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#metaleg> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#scaled>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#mi.ab2> (chaeta mi.ab2)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#mi.ab2> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#supplementary_chaetae>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#mucronal_teeth> (basal mucronal tooth)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#mucronal_teeth> ObjectIntersectionOf(ObjectIntersectionOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#inheres_in> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#apical_mucronal_teeth>) ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#is_approximately_equivalent_to> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#size>)) ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#size>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#ocellus_G> (ocellus G)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#ocellus_G> ObjectIntersectionOf(ObjectIntersectionOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#inheres_in> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#ocellus_F>) ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#is_approximately_equivalent_to> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#size>)) ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#size>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#ocellus_H> (ocellus H)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#ocellus_H> ObjectIntersectionOf(ObjectIntersectionOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#inheres_in> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#ocellus_C>) ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#is_approximately_equivalent_to> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#size>)) ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#size>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p1.ab5> (chaeta p1.ab5)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p1.ab5> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m.ab5_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p3.ab5> (chaeta p3.ab5)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p3.ab5> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m.ab5_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p3.t2> (chaeta p3.t2)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p3.t2> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p.t2_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p5.ab5> (chaeta p5.ab5)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p5.ab5> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m.ab5_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p5a.ab5> (chaeta p5a.ab5)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p5a.ab5> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#m.ab5_row>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#plurichaetosis> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#plurichaetosis>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#plurichaetosis> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#abdominal_segment_4>)))\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#plurichaetosis> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#mesothorax>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#procoxae> (procoxa)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#procoxae> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#scaled>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#proleg> (<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#proleg>)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#proleg> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#scaled>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#prosubcoxae> (prosubcoxa)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#prosubcoxae> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#bearer_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#scaled>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#proximal_labral_chaetae> (proximal labral chaeta)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#proximal_labral_chaetae> ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#decreased_in_magnitude_relative_to> ObjectIntersectionOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#size> ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#inheres_in> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#medial_labral_chaetae>))))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#r_row> (row r)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#r_row> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#abdominal_segment_4>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#'chaeta_mm.ab2'> (chaeta mm.ab2)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#'chaeta_mm.ab2'> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#supplementary_chaetae>)))\n\n# Class: <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#'chaeta_p7.ab2'> (chaeta p7.ab2)\n\nSubClassOf(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#'chaeta_p7.ab2'> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#part_of> <http://www.semanticweb.org/skipper/ontologies/2019/1/13/untitled-ontology-95#p.ab2_row>)))\n\n\n)
+
+[Term]
+id: 'chaeta_a6.t3'
+name: chaeta a6.t3
+is_a: third_thoracic_segment_chaeta ! third thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: 'chaeta_ll2.ab2'
+name: chaeta ll1.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: bearer_of fusiform
+
+[Term]
+id: 'chaeta_ml.ab2'
+name: chaeta ml.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: bearer_of fusiform
+
+[Term]
+id: 'chaeta_mm.ab2'
+name: chaeta mm.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+
+[Term]
+id: 'chaeta_p7.ab2'
+name: chaeta p7.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+
+[Term]
+id: 'material_entity_aggregate'
+name: material entity aggregate
+is_a: anatomical_structure ! anatomical structure
+
+[Term]
+id: 'material_entity_group'
+name: material entity group
+is_a: 'material_entity_aggregate' ! material entity aggregate
+
+[Term]
+id: 2-D_shape
+name: 2-D shape
+is_a: shape
+
+[Term]
+id: 3-D_shape
+name: 3-D shape
+is_a: shape
+
+[Term]
+id: A0.h
+name: chaeta A0.h
+is_a: cephalic_chaetae ! cephalic chaeta
+
+[Term]
+id: A1
+name: chaeta A1
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+
+[Term]
+id: A1.h
+name: chaeta A1.h
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: A2
+name: chaeta A2
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+
+[Term]
+id: A2.h
+name: chaeta A2.h
+is_a: cephalic_chaetae ! cephalic chaeta
+
+[Term]
+id: A3
+name: chaeta A3
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+
+[Term]
+id: A3.h
+name: chaeta A3.h
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: A4
+name: chaeta A4
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: A5
+name: chaeta A5
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: A5.h
+name: chaeta A5.h
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: A6
+name: chaeta A6
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: A_row
+name: row A
+is_a: row
+
+[Term]
+id: Antennal_segment_3_sense_organ
+name: Antennal segment 3 sense organ
+is_a: sense_organ ! sense organ
+relationship: bearer_of rod_shaped ! rod-shaped
+relationship: has_part sensillum {cardinality="2"}
+
+[Term]
+id: B1
+name: chaeta B1
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+
+[Term]
+id: B2
+name: chaeta B2
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+
+[Term]
+id: B3
+name: chaeta B3
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: B4
+name: chaeta B4
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: B5
+name: chaeta B5
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of macrochaeta
+
+[Term]
+id: B6
+name: chaeta B6
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of macrochaeta
+
+[Term]
+id: B_row
+name: row B
+is_a: row
+
+[Term]
+id: Be2
+name: chaeta Be2
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+
+[Term]
+id: Be3
+name: chaeta Be3
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+
+[Term]
+id: Be_row
+name: row Be
+is_a: row
+
+[Term]
+id: C1
+name: chaeta C1
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: C1p
+name: chaeta C1p
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: C2
+name: chaeta C2
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: C3
+name: chaeta C3
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: C4
+name: chaeta C4
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: CAO024a916e_b186_4f80_8e7d_4054ad059448
+name: guard appendage a3
+is_a: papillae_E ! labial papilla E
+
+[Term]
+id: CAO1edc1e64_d714_40d7_8b0a_90b7d7fb8c5d
+name: guard appendage a1
+is_a: papillae_E ! labial papilla E
+relationship: part_of papillae_E ! labial papilla E
+
+[Term]
+id: CAO359ffeca_1e43_4e29_b42d_a6f3a5bba1f0
+name: guard appendage a7
+is_a: papillae_E ! labial papilla E
+
+[Term]
+id: CAObbfe2408_ba74_4cca_9438_8922a9d24e0c
+name: guard appendage a5
+is_a: papillae_E ! labial papilla E
+
+[Term]
+id: CAObd6c604f_4874_4844_bb0b_3290c532c897
+name: guard appendage a6
+is_a: papillae_E ! labial papilla E
+relationship: part_of papillae_E ! labial papilla E
+
+[Term]
+id: CAOda21bd0f_1aa1_490c_baa1_c33cf06d87fb
+name: guard appendage a2
+is_a: papillae_E ! labial papilla E
+relationship: part_of papillae_E ! labial papilla E
+
+[Term]
+id: CAOf9bc8104_312f_49fd_82a9_c13b36c64346
+name: domed
+is_a: curvature
+
+[Term]
+id: C_row
+name: row C
+is_a: row
+
+[Term]
+id: D1
+name: chaeta D1
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of triangular
+
+[Term]
+id: D1p
+name: chaeta D1p
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of microchaeta
+relationship: bearer_of smooth
+relationship: lateral_to T3 ! chaeta T3
+
+[Term]
+id: D2
+name: chaeta D2
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of mesochaeta
+
+[Term]
+id: D3
+name: chaeta D3
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of mesochaeta
+
+[Term]
+id: D3p
+name: chaeta D3p
+comment: no se nombra
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of mesochaeta
+
+[Term]
+id: D_row
+name: row D
+is_a: row
+
+[Term]
+id: De1
+name: chaeta De1
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: De3
+name: chaeta De3
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of mesochaeta
+
+[Term]
+id: De_row
+name: row De
+is_a: row
+
+[Term]
+id: E1
+name: chaeta E1
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of mesochaeta
+
+[Term]
+id: E2
+name: chaeta E2
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of mesochaeta
+relationship: posterior_to T4 ! chaeta T4
+
+[Term]
+id: E3
+name: chaeta E3
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of macrochaeta
+
+[Term]
+id: E4
+name: chaeta E4
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of mesochaeta
+
+[Term]
+id: E4p
+name: chaeta E4p
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of mesochaeta
+
+[Term]
+id: E4p2
+name: chaeta E4p2
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+
+[Term]
+id: E_row
+name: row E
+is_a: row
+
+[Term]
+id: F1
+name: chaeta F1
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of macrochaeta
+
+[Term]
+id: F2
+name: chaeta F2
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of macrochaeta
+relationship: posterior_to T4 ! chaeta T4
+
+[Term]
+id: F2p
+name: chaeta F2p
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+
+[Term]
+id: F3
+name: chaeta F3
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of macrochaeta
+
+[Term]
+id: F3p
+name: chaeta F3p
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of mesochaeta
+
+[Term]
+id: F_row
+name: row F
+is_a: row
+
+[Term]
+id: Fe1
+name: chaeta Fe1
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+
+[Term]
+id: Fe2
+name: chaeta Fe2
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+
+[Term]
+id: Fe3
+name: chaeta Fe3
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+
+[Term]
+id: Fe5
+name: chaeta Fe5
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+
+[Term]
+id: Fe_row
+name: row Fe
+is_a: row
+
+[Term]
+id: M0
+name: chaeta M0
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: anterior_to M1 ! chaeta M1
+relationship: bearer_of microchaeta
+
+[Term]
+id: M1
+name: chaeta M1
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: M2
+name: chaeta M2
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: M3
+name: chaeta M3
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: M4
+name: chaeta M4
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: M4i
+name: chaeta M4i
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: Pa2
+name: chaeta Pa2
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: Pa3
+name: chaeta Pa3
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: Pa4
+name: chaeta Pa4
+is_a: cephalic_chaetae ! cephalic chaeta
+
+[Term]
+id: Pa5
+name: chaeta Pa5
+is_a: cephalic_chaetae ! cephalic chaeta
+
+[Term]
+id: Pa6
+name: chaeta Pa6
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of bothriotricha
+
+[Term]
+id: Pm1
+name: chaeta Pm1
+is_a: cephalic_chaetae ! cephalic chaeta
+
+[Term]
+id: Pm3
+name: chaeta Pm3
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: Ps2
+name: chaeta Ps2
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: Ps3
+name: chaeta Ps3
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: Ps5
+name: chaeta Ps5
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: S0
+name: chaeta S0
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: S1
+name: chaeta S4
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: S2
+name: chaeta S2
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: S3
+name: chaeta S3
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: S5
+name: chaeta S5
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: S6
+name: chaeta S6
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: T1
+name: chaeta T1
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: T2
+name: chaeta T2
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of bothriotricha
+
+[Term]
+id: T3
+name: chaeta T3
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of microchaeta
+relationship: bearer_of smooth
+
+[Term]
+id: T4
+name: chaeta T4
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of bothriotricha
+
+[Term]
+id: T5
+name: chaeta T5
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: T6
+name: chaeta T6
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of mesochaeta
+
+[Term]
+id: T7
+name: chaeta T7
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of mesochaeta
+
+[Term]
+id: T_row
+name: row T
+is_a: row
+
+[Term]
+id: a.ab1_row
+name: row a.ab1
+is_a: row
+
+[Term]
+id: a.ab2_row
+name: row a.ab2
+is_a: row
+
+[Term]
+id: a.ab3_row
+name: row a.ab3
+is_a: row
+
+[Term]
+id: a.t2_row
+name: row a.t2
+is_a: row
+
+[Term]
+id: a.t3_row
+name: row a.t3
+is_a: row
+
+[Term]
+id: a1.ab1
+name: chaeta a1.ab1
+is_a: first_abdominal_segment_chaeta ! first abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: a1.lb
+name: chaeta a1.lb
+is_a: labial_chaeta ! labial chaeta
+relationship: bearer_of smooth
+
+[Term]
+id: a1.t3
+name: chaeta a1.t3
+is_a: third_thoracic_segment_chaeta ! third thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: a2.ab1
+name: chaeta a2.ab1
+is_a: first_abdominal_segment_chaeta ! first abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: a2.ab2
+name: chaeta a2.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: bearer_of fusiform
+
+[Term]
+id: a2.ab3
+name: chaeta a2.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of fusiform
+
+[Term]
+id: a2.lb
+name: chaeta a2.lb
+is_a: labial_chaeta ! labial chaeta
+relationship: bearer_of smooth
+
+[Term]
+id: a2.t3
+name: chaeta a2.t3
+is_a: third_thoracic_segment_chaeta ! third thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: a2p.ab2
+name: chaeta a2p.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: a3.ab1
+name: chaeta a3.ab1
+is_a: first_abdominal_segment_chaeta ! first abdominal segment chaeta
+relationship: bearer_of microchaeta
+relationship: lateral_to m3.ab1 ! chaeta m3.ab1
+
+[Term]
+id: a3.ab2
+name: chaeta a3.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: aligned_with m2.ab2 ! chaeta m2.ab2
+relationship: bearer_of microchaeta
+relationship: internal_to m2.ab2 ! chaeta m2.ab2
+
+[Term]
+id: a3.ab3
+name: chaeta a3.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: a3.lb
+name: chaeta a3.lb
+is_a: labial_chaeta ! labial chaeta
+relationship: bearer_of smooth
+
+[Term]
+id: a3.t3
+name: chaeta a3.t3
+is_a: third_thoracic_segment_chaeta ! third thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: a4.lb
+name: chaeta a4.lb
+is_a: labial_chaeta ! labial chaeta
+relationship: bearer_of smooth
+
+[Term]
+id: a4.t3
+name: chaeta a4.t3
+is_a: third_thoracic_segment_chaeta ! third thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: a5.ab1
+name: chaeta a5.ab1
+is_a: first_abdominal_segment_chaeta ! first abdominal segment chaeta
+relationship: anterior_to m4.ab1 ! chaeta m4.ab1
+relationship: bearer_of microchaeta
+
+[Term]
+id: a5.ab2
+name: chaeta a5.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: bearer_of bothriotricha
+
+[Term]
+id: a5.ab3
+name: chaeta a5.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of bothriotricha
+
+[Term]
+id: a5.lb
+name: chaeta a5.lb
+is_a: labial_chaeta ! labial chaeta
+relationship: bearer_of smooth
+
+[Term]
+id: a5.t2
+name: chaeta a5.t2
+is_a: second_thoracic_segment_chaeta ! second thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: a5.t3
+name: chaeta a5.t3
+is_a: third_thoracic_segment_chaeta ! third thoracic segment chaeta
+
+[Term]
+id: a6.ab1
+name: chaeta a6.ab1
+is_a: first_abdominal_segment_chaeta ! first abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: a6.ab2
+name: chaeta a6.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: aligned_with m5.ab2 ! chaeta m5.ab2
+relationship: bearer_of microchaeta
+
+[Term]
+id: a6.ab3
+name: chaeta a6.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of fusiform
+
+[Term]
+id: a7.ab3
+name: chaeta a7.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+
+[Term]
+id: abdomen
+is_a: tagma
+
+[Term]
+id: abdominal_chaeta
+name: abdominal chaeta
+is_a: chaeta
+
+[Term]
+id: abdominal_segment
+name: abdominal segment
+is_a: segment
+
+[Term]
+id: abdominal_segment_1
+name: abdominal segment 1
+is_a: abdominal_segment ! abdominal segment
+relationship: bearer_of color_background ! color background
+relationship: bearer_of lateral_side ! lateral side
+relationship: bearer_of purple
+relationship: bearer_of white
+
+[Term]
+id: abdominal_segment_2
+name: abdominal segment 2
+is_a: abdominal_segment ! abdominal segment
+relationship: bearer_of color_background ! color background
+relationship: bearer_of white
+
+[Term]
+id: abdominal_segment_3
+name: abdominal segment 3
+is_a: abdominal_segment ! abdominal segment
+relationship: bearer_of color_background ! color background
+relationship: bearer_of white
+
+[Term]
+id: abdominal_segment_3+abdominal_segment_4_ratio
+name: abdominal segment 3+abdominal segment 4 ratio
+is_a: median_anatomical_line ! median anatomical line
+
+[Term]
+id: abdominal_segment_4
+name: abdominal segment 4
+is_a: abdominal_segment ! abdominal segment
+relationship: bearer_of band
+relationship: bearer_of color_background ! color background
+relationship: bearer_of purple
+relationship: bearer_of white
+relationship: located_in dorsomedial_side ! dorsomedial side
+
+[Term]
+id: abdominal_segment_5
+name: abdominal segment 5
+is_a: abdominal_segment ! abdominal segment
+relationship: bearer_of color_background ! color background
+relationship: bearer_of purple
+
+[Term]
+id: abdominal_segment_6
+name: abdominal segment 6
+is_a: abdominal_segment ! abdominal segment
+relationship: bearer_of color_background ! color background
+relationship: bearer_of purple
+relationship: has_part macrochaeta {minCardinality="0"}
+
+[Term]
+id: acc.p4
+name: chaeta acc.p4
+is_a: fifth_abdominal_segment_chaeta ! fifth abdominal segment chaeta
+relationship: part_of abdominal_segment_5 ! abdominal segment 5
+
+[Term]
+id: acc.p5
+name: chaeta acc.p5
+is_a: fifth_abdominal_segment_chaeta ! fifth abdominal segment chaeta
+relationship: part_of abdominal_segment_5 ! abdominal segment 5
+
+[Term]
+id: am6.ab3
+name: chaeta am6.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of triangular
+
+[Term]
+id: anatomical_entity
+name: anatomical entity
+is_a: body
+
+[Term]
+id: anatomical_side
+name: anatomical side
+is_a: quality
+
+[Term]
+id: anatomical_structure
+name: anatomical structure
+is_a: anatomical_entity ! anatomical entity
+
+[Term]
+id: antennae
+is_a: appendage
+relationship: bearer_of white
+relationship: has_part color_background ! color background
+
+[Term]
+id: antennal_row
+name: antennal row
+is_a: cephalic_row ! cephalic row
+relationship: has_part chaeta {minCardinality="6"}
+
+[Term]
+id: antennal_segment
+name: antennal segment
+is_a: segment
+
+[Term]
+id: antennal_segment_1
+name: antennal segment 1
+is_a: antennal_segment ! antennal segment
+relationship: bearer_of color_background ! color background
+relationship: bearer_of distal_side ! distal side
+relationship: bearer_of purple
+relationship: bearer_of white
+
+[Term]
+id: antennal_segment_2
+name: antennal segment 2
+is_a: antennal_segment ! antennal segment
+relationship: bearer_of color_background ! color background
+relationship: bearer_of distal_side ! distal side
+relationship: bearer_of purple
+relationship: bearer_of white
+
+[Term]
+id: antennal_segment_3
+name: antennal segment 3
+is_a: antennal_segment ! antennal segment
+relationship: bearer_of color_background ! color background
+relationship: bearer_of distal_side ! distal side
+relationship: bearer_of purple
+relationship: bearer_of white
+
+[Term]
+id: antennal_segment_4
+name: antennal segment 4
+is_a: antennal_segment ! antennal segment
+relationship: bearer_of color_background ! color background
+relationship: bearer_of purple
+
+[Term]
+id: anterior_postlabial_chaeta
+name: anterior postlabial chaeta
+is_a: postlabial_chaetae ! postlabial chaeta
+relationship: bearer_of ciliated
+
+[Term]
+id: anterior_postoccipital_row
+name: anterior postoccipital row
+is_a: cephalic_row ! cephalic row
+relationship: has_part chaeta {cardinality="4"}
+
+[Term]
+id: anterior_row
+name: anterior row
+is_a: cephalic_row ! cephalic row
+relationship: has_part chaeta {cardinality="5"}
+
+[Term]
+id: anterior_side
+name: anterior side
+is_a: anatomical_side ! anatomical side
+
+[Term]
+id: apical_appendage
+name: apical appendage
+is_a: appendage
+relationship: bearer_of smooth
+
+[Term]
+id: apical_bulb
+name: apical bulb
+is_a: process
+relationship: bearer_of rounded
+relationship: located_in depression
+
+[Term]
+id: apical_mucronal_teeth
+name: apical mucronal tooth
+is_a: mucronal_tooth ! mucronal tooth
+
+[Term]
+id: appendage
+is_a: anatomical_structure ! anatomical structure
+
+[Term]
+id: area
+is_a: fiat_object_part ! fiat object part
+property_value: http://purl.org/dc/elements/1.1/identifier http://purl.obolibrary.org/obo/HAO_0000146 xsd:string
+
+[Term]
+id: as.ab3
+name: chaeta as.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+
+[Term]
+id: as.ab5
+name: chaeta as.ab5
+is_a: fifth_abdominal_segment_chaeta ! fifth abdominal segment chaeta
+relationship: part_of abdominal_segment_5 ! abdominal segment 5
+
+[Term]
+id: band
+is_a: color_pattern ! color pattern
+
+[Term]
+id: basal_appendage
+name: basal appendage
+is_a: appendage
+relationship: bearer_of smooth
+
+[Term]
+id: basal_side
+name: basal side
+is_a: anatomical_side ! anatomical side
+
+[Term]
+id: basal_spinelete
+name: basal spinelete
+is_a: process
+
+[Term]
+id: basolateral_labial_field
+name: basolateral labial field
+is_a: area
+property_value: http://purl.org/dc/elements/1.1/identifier http://webprotege.stanford.edu/project/C5jwy47uikteCsueDXkxtB#basolateral_labial_field xsd:string
+
+[Term]
+id: basomedian_labial_field
+name: basomedian labial field
+is_a: area
+
+[Term]
+id: bifurcated
+is_a: branched
+
+[Term]
+id: black
+is_a: color
+
+[Term]
+id: blunt
+is_a: sharpness
+
+[Term]
+id: bothriotricha
+is_a: chaeta
+
+[Term]
+id: branched
+is_a: shape
+
+[Term]
+id: capitated
+is_a: oblong
+
+[Term]
+id: cephalic_chaetae
+name: cephalic chaeta
+is_a: chaeta
+
+[Term]
+id: cephalic_groove
+name: cephalic groove
+is_a: area
+relationship: has_part chaeta {cardinality="5"}
+
+[Term]
+id: cephalic_row
+name: cephalic row
+is_a: row
+
+[Term]
+id: chaeta
+is_a: cuticular_projection ! cuticular projection
+
+[Term]
+id: chaeta_A1p.h
+name: chaeta A1p.h
+is_a: cephalic_chaetae ! cephalic chaeta
+
+[Term]
+id: chaeta_A2a.h
+name: chaeta A2a.h
+is_a: cephalic_chaetae ! cephalic chaeta
+
+[Term]
+id: chaeta_Ee10
+name: chaeta Ee12
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+
+[Term]
+id: chaeta_Ee12
+name: chaeta Ee10
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+
+[Term]
+id: chaeta_Fe4
+name: chaeta Fe4
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of mesochaeta
+
+[Term]
+id: chaeta_Fe6
+name: chaeta Fe6
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+
+[Term]
+id: chaeta_Pe3
+name: chaeta Pe3
+is_a: cephalic_chaetae ! cephalic chaeta
+
+[Term]
+id: chaeta_Pe4
+name: chaeta Pe4
+is_a: cephalic_chaetae ! cephalic chaeta
+
+[Term]
+id: chaeta_Pp1
+name: chaeta Pp1
+is_a: cephalic_chaetae ! cephalic chaeta
+
+[Term]
+id: chaeta_Pp2
+name: chaeta Pp2
+is_a: cephalic_chaetae ! cephalic chaeta
+
+[Term]
+id: chaeta_Pp3
+name: chaeta Pp3
+is_a: cephalic_chaetae ! cephalic chaeta
+
+[Term]
+id: chaeta_Pp4
+name: chaeta Pp4
+is_a: cephalic_chaetae ! cephalic chaeta
+
+[Term]
+id: chaeta_Pp5
+name: chaeta Pp5
+is_a: cephalic_chaetae ! cephalic chaeta
+
+[Term]
+id: chaeta_Pp6
+name: chaeta Pp6
+is_a: cephalic_chaetae ! cephalic chaeta
+
+[Term]
+id: chaeta_Ps4
+name: chaeta Ps4
+is_a: cephalic_chaetae ! cephalic chaeta
+
+[Term]
+id: chaeta_Te3
+name: chaeta Te3
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: chaeta_a
+name: chaeta a
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of triangular
+relationship: cephalad_to D1 ! chaeta D1
+
+[Term]
+id: chaeta_a1a.ab1
+name: chaeta a1a.ab1
+is_a: first_abdominal_segment_chaeta ! first abdominal segment chaeta
+
+[Term]
+id: chaeta_a5.ab5
+name: chaeta a5.ab5
+is_a: fifth_abdominal_segment_chaeta ! fifth abdominal segment chaeta
+
+[Term]
+id: chaeta_a7.ab2
+name: chaeta a7.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: chaeta_a7.t3
+name: chaeta a7.t3
+is_a: third_thoracic_segment_chaeta ! third thoracic segment chaeta
+
+[Term]
+id: chaeta_a8.ab3
+name: chaeta a8.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+
+[Term]
+id: chaeta_as.ab4
+name: chaeta as.ab4
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+
+[Term]
+id: chaeta_d2.ab3
+name: chaeta d2.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+
+[Term]
+id: chaeta_d3.ab3
+name: chaeta d3.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+
+[Term]
+id: chaeta_emp.ab3
+name: chaeta emp.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of triangular
+
+[Term]
+id: chaeta_li1.ab2
+name: chaeta li1.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: bearer_of fusiform
+
+[Term]
+id: chaeta_li1.ab3
+name: chaeta li1.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+
+[Term]
+id: chaeta_m5e.ab5
+name: chaeta m5a.ab5
+is_a: fifth_abdominal_segment_chaeta ! fifth abdominal segment chaeta
+
+[Term]
+id: chaeta_m7.ab2
+name: chaeta m7.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+
+[Term]
+id: chaeta_mm.ab3
+name: chaeta mm.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+
+[Term]
+id: chaeta_ms.ab1
+name: chaeta ms.ab1
+is_a: first_abdominal_segment_chaeta ! first abdominal segment chaeta
+
+[Term]
+id: chaeta_p1i.t2
+name: chaeta p1i.t2
+is_a: second_thoracic_segment_chaeta ! second thoracic segment chaeta
+
+[Term]
+id: chaeta_p5p.ab2
+name: chaeta p5p.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+
+[Term]
+id: chaeta_s.a1
+is_a: secundary_antennal_chaeta ! secundary antennal chaeta
+relationship: has_part chaeta {minCardinality="0"}
+
+[Term]
+id: chaeta_s.a2
+is_a: secundary_antennal_chaeta ! secundary antennal chaeta
+relationship: has_part chaeta {minCardinality="0"}
+
+[Term]
+id: chaeta_s.a3
+is_a: secundary_antennal_chaeta ! secundary antennal chaeta
+relationship: has_part chaeta {minCardinality="0"}
+
+[Term]
+id: chaeta_s.a4
+is_a: secundary_antennal_chaeta ! secundary antennal chaeta
+relationship: has_part chaeta {minCardinality="0"}
+
+[Term]
+id: chaeta_s.a5
+is_a: secundary_antennal_chaeta ! secundary antennal chaeta
+relationship: has_part chaeta {minCardinality="0"}
+
+[Term]
+id: chaeta_s.a6
+is_a: secundary_antennal_chaeta ! secundary antennal chaeta
+relationship: has_part chaeta {minCardinality="1"}
+
+[Term]
+id: chaeta_s1
+is_a: s-chaeta
+
+[Term]
+id: chaeta_s10
+is_a: s-chaeta
+
+[Term]
+id: chaeta_s11
+is_a: s-chaeta
+
+[Term]
+id: chaeta_s12
+is_a: s-chaeta
+
+[Term]
+id: chaeta_s13
+is_a: s-chaeta
+
+[Term]
+id: chaeta_s14
+is_a: s-chaeta
+
+[Term]
+id: chaeta_s15
+is_a: s-chaeta
+
+[Term]
+id: chaeta_s16
+is_a: s-chaeta
+
+[Term]
+id: chaeta_s17
+is_a: s-chaeta
+
+[Term]
+id: chaeta_s2
+is_a: s-chaeta
+
+[Term]
+id: chaeta_s3
+is_a: s-chaeta
+
+[Term]
+id: chaeta_s4
+is_a: s-chaeta
+
+[Term]
+id: chaeta_s5
+is_a: s-chaeta
+
+[Term]
+id: chaeta_s6
+is_a: s-chaeta
+
+[Term]
+id: chaeta_s7
+is_a: s-chaeta
+
+[Term]
+id: chaeta_s8
+is_a: s-chaeta
+
+[Term]
+id: chaeta_s9
+is_a: s-chaeta
+
+[Term]
+id: chaeta_v.h
+name: chaeta v.h
+is_a: interocular_chaetae ! interocular chaeta
+
+[Term]
+id: ciliated
+is_a: texture
+
+[Term]
+id: clavate
+is_a: convex_3-D_shape ! convex 3-D shape
+
+[Term]
+id: clypeal_chaetae
+name: clypeal chaeta
+is_a: chaeta
+relationship: bearer_of ciliated
+
+[Term]
+id: collar
+is_a: object_group ! object group
+relationship: has_part row_of_chaeta {minCardinality="2"} ! row of chaeta
+
+[Term]
+id: collophore
+is_a: appendage
+
+[Term]
+id: collophore_chaetae
+name: collophore chaeta
+is_a: chaeta
+relationship: bearer_of ciliated
+relationship: bearer_of lateral_side ! lateral side
+relationship: bearer_of smooth
+relationship: has_part anterior_side ! anterior side
+relationship: has_part chaeta {cardinality="8"}
+relationship: has_part chaeta {cardinality="0"}
+relationship: has_part chaeta
+relationship: has_part ciliated
+relationship: has_part posterior_side ! posterior side
+
+[Term]
+id: color
+is_a: quality
+
+[Term]
+id: color_background
+name: color background
+is_a: color
+
+[Term]
+id: color_pattern
+name: color pattern
+is_a: quality
+
+[Term]
+id: conical
+is_a: convex_3-D_shape ! convex 3-D shape
+
+[Term]
+id: convex_3-D_shape
+name: convex 3-D shape
+is_a: 3-D_shape ! 3-D shape
+
+[Term]
+id: coxa_row
+name: coxa row
+is_a: row
+
+[Term]
+id: coxae
+name: coxa
+is_a: leg_segment ! leg segment
+
+[Term]
+id: curvature
+is_a: shape
+
+[Term]
+id: curved
+is_a: curvature
+
+[Term]
+id: cuticular_projection
+name: cuticular projection
+is_a: vestiture
+
+[Term]
+id: cx2_anterior_row
+name: anterior mesocoxa row
+is_a: coxa_row ! coxa row
+relationship: has_part chaeta {cardinality="4"}
+
+[Term]
+id: cx2_median_row
+name: median mesocoxa row
+is_a: coxa_row ! coxa row
+relationship: has_part chaeta {cardinality="4"}
+
+[Term]
+id: cx2_posterior_row
+name: posterior mesocoxa row
+is_a: coxa_row ! coxa row
+relationship: has_part chaeta {minCardinality="13"}
+
+[Term]
+id: cx3_anterior_row
+name: metacoxal row
+is_a: coxa_row ! coxa row
+relationship: has_part chaeta {cardinality="13"}
+
+[Term]
+id: dark_blue
+name: dark blue
+is_a: color
+
+[Term]
+id: decreased_length
+name: decreased length
+is_a: length
+
+[Term]
+id: decreased_size
+name: decreased size
+is_a: size
+
+[Term]
+id: dens
+is_a: furcula_segment ! furcula segment
+relationship: bearer_of proximal_side ! proximal side
+relationship: has_part dental_spine {minCardinality="0"} ! dental spine
+
+[Term]
+id: dental_spine
+name: dental spine
+is_a: spine
+
+[Term]
+id: dental_tubercle
+name: dental tubercle
+is_a: process
+relationship: bearer_of CAOf9bc8104_312f_49fd_82a9_c13b36c64346 ! domed
+
+[Term]
+id: depression
+is_a: area
+
+[Term]
+id: deviation(from_normal)
+name: deviation(from normal)
+is_a: qualitative
+
+[Term]
+id: distal_labral_chaetae
+name: distal labral chaeta
+is_a: labral_chaetae ! labral chaeta
+relationship: bearer_of normal_length ! normal length
+relationship: bearer_of normal_thickness
+relationship: bearer_of normal_thickness
+relationship: bearer_of smooth
+
+[Term]
+id: distal_side
+name: distal side
+is_a: anatomical_side ! anatomical side
+
+[Term]
+id: dorsal_side
+name: dorsal side
+is_a: anatomical_side ! anatomical side
+
+[Term]
+id: dorsomedial_side
+name: dorsomedial side
+is_a: anatomical_side ! anatomical side
+
+[Term]
+id: e.lb
+name: chaeta e.lb
+is_a: labial_chaeta ! labial chaeta
+relationship: bearer_of ciliated
+
+[Term]
+id: edge_shape
+is_a: shape
+
+[Term]
+id: em.ab3
+name: chaeta em.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of fusiform
+
+[Term]
+id: external_chaetae
+name: external chaeta
+is_a: prelabral_chaetae ! prelabral chaeta
+relationship: bearer_of ciliated
+
+[Term]
+id: external_postoccipital_row
+name: external postoccipital row
+is_a: cephalic_row ! cephalic row
+relationship: has_part chaeta {cardinality="0"}
+
+[Term]
+id: external_side
+name: external side
+is_a: anatomical_side ! anatomical side
+
+[Term]
+id: eye_patch
+name: eye patch
+is_a: object_group ! object group
+relationship: bearer_of black
+
+[Term]
+id: facial_chaeta
+name: facial chaeta
+is_a: clypeal_chaetae ! clypeal chaeta
+
+[Term]
+id: fan_shape
+name: fan-shaped
+is_a: 2-D_shape ! 2-D shape
+
+[Term]
+id: femur
+is_a: leg_segment ! leg segment
+
+[Term]
+id: fiat_object_part
+name: fiat object part
+is_a: anatomical_structure ! anatomical structure
+
+[Term]
+id: fifth_abdominal_segment_chaeta
+name: fifth abdominal segment chaeta
+is_a: abdominal_chaeta ! abdominal chaeta
+
+[Term]
+id: finger-shape
+name: finger-shaped
+is_a: shape
+
+[Term]
+id: first_abdominal_segment_chaeta
+name: first abdominal segment chaeta
+is_a: abdominal_chaeta ! abdominal chaeta
+
+[Term]
+id: foot_complex
+name: foot complex
+is_a: leg_segment ! leg segment
+
+[Term]
+id: fourth_abdominal_segment_chaeta
+name: fourth abdominal segment chaeta
+is_a: abdominal_chaeta ! abdominal chaeta
+
+[Term]
+id: furcula
+is_a: appendage
+
+[Term]
+id: furcula_segment
+name: furcula segment
+is_a: segment
+relationship: bearer_of color_background ! color background
+relationship: bearer_of white
+
+[Term]
+id: fusiform
+is_a: shape
+
+[Term]
+id: group_sp
+is_a: object_group ! object group
+relationship: has_part s-chaeta {cardinality="0"}
+
+[Term]
+id: guard_appendages
+name: guard appendages
+is_a: appendage
+
+[Term]
+id: guard_sensillum
+name: guard sensillum
+is_a: Antennal_segment_3_sense_organ ! Antennal segment 3 sense organ
+
+[Term]
+id: head
+is_a: tagma
+relationship: bearer_of color_background ! color background
+relationship: bearer_of white
+
+[Term]
+id: head+body_length
+name: head+body length
+is_a: median_anatomical_line ! median anatomical line
+
+[Term]
+id: im.ab3
+name: chaeta im.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of fusiform
+
+[Term]
+id: increased_length
+name: increased length
+is_a: length
+
+[Term]
+id: increased_size
+name: increased size
+is_a: size
+
+[Term]
+id: increased_thickness
+is_a: thickness
+
+[Term]
+id: inner_distal_chaeta
+name: inner distal chaeta
+is_a: distal_labral_chaetae ! distal labral chaeta
+
+[Term]
+id: integument
+is_a: area
+
+[Term]
+id: internal_chaetae
+name: internal chaeta
+is_a: prelabral_chaetae ! prelabral chaeta
+relationship: bearer_of ciliated
+
+[Term]
+id: internal_side
+name: internal side
+is_a: anatomical_side ! anatomical side
+
+[Term]
+id: interocular_area
+name: interocular area
+is_a: area
+
+[Term]
+id: interocular_chaetae
+name: interocular chaeta
+is_a: cephalic_chaetae ! cephalic chaeta
+relationship: has_part chaeta {cardinality="5"}
+
+[Term]
+id: l1.lb
+name: chaeta l1.lb
+is_a: labial_chaeta ! labial chaeta
+relationship: bearer_of ciliated
+
+[Term]
+id: l2.lb
+name: chaeta l2.lb
+is_a: labial_chaeta ! labial chaeta
+relationship: bearer_of ciliated
+
+[Term]
+id: labial_chaeta
+name: labial chaeta
+is_a: chaeta
+
+[Term]
+id: labial_palp
+name: labial palp
+is_a: palpus
+
+[Term]
+id: labial_papilla
+name: labial papilla
+is_a: papillae ! papilla
+
+[Term]
+id: labium
+is_a: object_cluster ! object cluster
+
+[Term]
+id: labral_chaetae
+name: labral chaeta
+is_a: chaeta
+
+[Term]
+id: labral_papilla
+is_a: papillae ! papilla
+
+[Term]
+id: lateral_chaeta
+name: lateral chaeta
+is_a: clypeal_chaetae ! clypeal chaeta
+
+[Term]
+id: lateral_distal_chaeta
+name: lateral distal chaeta
+is_a: distal_labral_chaetae ! distal labral chaeta
+
+[Term]
+id: lateral_process
+name: lateral process
+is_a: process
+relationship: bearer_of curved
+relationship: bearer_of finger-shape ! finger-shaped
+
+[Term]
+id: lateral_side
+name: lateral side
+is_a: anatomical_side ! anatomical side
+
+[Term]
+id: leg
+is_a: appendage
+
+[Term]
+id: leg_segment
+name: leg segment
+is_a: segment
+relationship: bearer_of color_background ! color background
+relationship: bearer_of white
+
+[Term]
+id: length
+is_a: quality
+
+[Term]
+id: li.ab2
+name: chaeta li.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: bearer_of fusiform
+
+[Term]
+id: li.ab3
+name: chaeta li.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of fusiform
+
+[Term]
+id: ll.ab2
+name: chaeta ll.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+
+[Term]
+id: ll.ab3
+name: chaeta ll.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of fusiform
+
+[Term]
+id: lm.ab2
+name: chaeta lm.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: bearer_of fusiform
+
+[Term]
+id: lm.ab3
+name: chaeta lm.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of triangular
+
+[Term]
+id: m
+name: chaeta m
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of triangular
+
+[Term]
+id: m.ab1_row
+name: row m.ab1
+is_a: row
+
+[Term]
+id: m.ab2_row
+name: row m.ab2
+is_a: row
+
+[Term]
+id: m.ab3_row
+name: row m.ab3
+is_a: row
+
+[Term]
+id: m.ab5_row
+name: row m.ab5
+is_a: row
+
+[Term]
+id: m.t2_row
+name: row m.t2
+is_a: row
+
+[Term]
+id: m.t3_row
+name: row m.t3
+is_a: row
+
+[Term]
+id: m1.lb
+name: chaeta m1.lb
+is_a: labial_chaeta ! labial chaeta
+
+[Term]
+id: m1.t2
+name: chaeta m1.t2
+is_a: second_thoracic_segment_chaeta ! second thoracic segment chaeta
+
+[Term]
+id: m1i.t2
+name: chaeta m1i.t2
+is_a: second_thoracic_segment_chaeta ! second thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: m2.ab1
+name: chaeta m2.ab1
+is_a: first_abdominal_segment_chaeta ! first abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: m2.ab2
+name: chaeta m2.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: bearer_of bothriotricha
+
+[Term]
+id: m2.ab3
+name: chaeta m2.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of bothriotricha
+
+[Term]
+id: m2.ab5
+name: chaeta m2.ab5
+is_a: fifth_abdominal_segment_chaeta ! fifth abdominal segment chaeta
+
+[Term]
+id: m2.lb
+name: chaeta m2.lb
+is_a: labial_chaeta ! labial chaeta
+relationship: bearer_of ciliated
+
+[Term]
+id: m2.t2
+name: chaeta m2.t2
+is_a: second_thoracic_segment_chaeta ! second thoracic segment chaeta
+
+[Term]
+id: m2.t3
+name: chaeta m2.t3
+is_a: third_thoracic_segment_chaeta ! third thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: m2p.t2
+name: chaeta m2p.t2
+is_a: second_thoracic_segment_chaeta ! second thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: m3.ab1
+name: chaeta m3.ab1
+is_a: first_abdominal_segment_chaeta ! first abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: m3.ab2
+name: chaeta m3.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: bearer_of macrochaeta
+
+[Term]
+id: m3.ab3
+name: chaeta m3.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: m3.ab5
+name: chaeta m3.ab5
+is_a: fifth_abdominal_segment_chaeta ! fifth abdominal segment chaeta
+
+[Term]
+id: m3.lb
+name: chaeta m3.lb
+is_a: labial_chaeta ! labial chaeta
+
+[Term]
+id: m3.t3
+name: chaeta m3.t3
+is_a: third_thoracic_segment_chaeta ! third thoracic segment chaeta
+
+[Term]
+id: m3e.ab2
+name: chaeta m3e.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: m4.ab1
+name: chaeta m4.ab1
+is_a: first_abdominal_segment_chaeta ! first abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: m4.ab2
+name: chaeta m4.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: m4.t2
+name: chaeta m4.t2
+is_a: second_thoracic_segment_chaeta ! second thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: m4.t3
+name: chaeta m4.t3
+is_a: third_thoracic_segment_chaeta ! third thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: m5.ab1
+name: chaeta m5.ab1
+is_a: first_abdominal_segment_chaeta ! first abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: m5.ab2
+name: chaeta m5.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: bearer_of macrochaeta
+
+[Term]
+id: m5.ab3
+name: chaeta m5.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of bothriotricha
+
+[Term]
+id: m5.ab5
+name: chaeta m5.ab5
+is_a: fifth_abdominal_segment_chaeta ! fifth abdominal segment chaeta
+
+[Term]
+id: m5.t2
+name: chaeta m5.t2
+is_a: second_thoracic_segment_chaeta ! second thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: m5.t3
+name: chaeta m5.t3
+is_a: third_thoracic_segment_chaeta ! third thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: m6.ab1
+name: chaeta m6.ab1
+is_a: first_abdominal_segment_chaeta ! first abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: m6.ab2
+name: chaeta m6.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: m6.t2
+name: chaeta m6.t2
+is_a: second_thoracic_segment_chaeta ! second thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: m6.t3
+name: chaeta m6.t3
+is_a: third_thoracic_segment_chaeta ! third thoracic segment chaeta
+relationship: bearer_of mesochaeta
+
+[Term]
+id: m6e.t2
+name: chaeta m6e.t2
+is_a: second_thoracic_segment_chaeta ! second thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: m7.ab3
+name: chaeta m7.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of macrochaeta
+
+[Term]
+id: m7e.ab3
+name: chaeta m7e.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+
+[Term]
+id: macrochaeta
+is_a: size
+
+[Term]
+id: manubrial_plate
+name: manubrial plate
+is_a: area
+relationship: bearer_of ciliated
+relationship: has_part chaeta {cardinality="8"}
+relationship: has_part pseudopore {cardinality="0"}
+
+[Term]
+id: manubrium
+is_a: furcula_segment ! furcula segment
+
+[Term]
+id: material_entity_cluster
+name: material entity cluster
+is_a: 'material_entity_aggregate' ! material entity aggregate
+
+[Term]
+id: maxillary_outer_lobe
+name: maxillary outer lobe
+is_a: object_cluster ! object cluster
+
+[Term]
+id: media_postoccipital_row
+name: media postoccipital row
+is_a: cephalic_row ! cephalic row
+relationship: has_part chaeta {cardinality="1"}
+
+[Term]
+id: medial_labral_chaetae
+name: medial labral chaeta
+is_a: labral_chaetae ! labral chaeta
+relationship: bearer_of normal_length ! normal length
+relationship: bearer_of normal_thickness
+relationship: bearer_of smooth
+
+[Term]
+id: median_anatomical_line
+name: median anatomical line
+is_a: body
+
+[Term]
+id: median_row
+name: median row
+is_a: cephalic_row ! cephalic row
+relationship: has_part chaeta {cardinality="4"}
+
+[Term]
+id: mesochaeta
+is_a: size
+
+[Term]
+id: mesocoxae
+name: mesocoxa
+is_a: coxae ! coxa
+relationship: bearer_of scaled
+relationship: has_part pseudopore {cardinality="0"}
+
+[Term]
+id: mesofemur
+is_a: femur
+
+[Term]
+id: mesoleg
+is_a: leg
+relationship: bearer_of white
+relationship: has_part color_background ! color background
+
+[Term]
+id: mesosubcoxae
+name: mesosubcoxa
+is_a: subcoxae ! subcoxa
+relationship: bearer_of scaled
+
+[Term]
+id: mesothorax
+is_a: thoracic_segment ! thoracic segment
+relationship: bearer_of color_background ! color background
+relationship: bearer_of white
+
+[Term]
+id: mesothorax+metathorax_ratio
+name: mesothorax+metathorax ratio
+is_a: median_anatomical_line ! median anatomical line
+
+[Term]
+id: mesotibiotarsus
+is_a: tibiotarsus
+
+[Term]
+id: metacoxae
+name: metacoxa
+is_a: coxae ! coxa
+relationship: bearer_of scaled
+relationship: has_part chaeta {cardinality="0"}
+relationship: has_part pseudopore {cardinality="0"}
+
+[Term]
+id: metafemur
+is_a: femur
+
+[Term]
+id: metaleg
+is_a: leg
+relationship: bearer_of white
+relationship: has_part color_background ! color background
+
+[Term]
+id: metasubcoxae
+name: metasubcoxa
+is_a: subcoxae ! subcoxa
+relationship: bearer_of scaled
+
+[Term]
+id: metathorax
+is_a: thoracic_segment ! thoracic segment
+relationship: bearer_of color_background ! color background
+relationship: bearer_of lateral_side ! lateral side
+relationship: bearer_of purple
+relationship: bearer_of white
+
+[Term]
+id: metatibiotarsus
+is_a: tibiotarsus
+
+[Term]
+id: mi.ab2
+name: chaeta mi.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+
+[Term]
+id: microchaeta
+is_a: size
+
+[Term]
+id: ml.ab3
+name: chaeta ml.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of fusiform
+
+[Term]
+id: mm.ab3
+name: chaeta mi.ab3
+comment: equal chaeta ml.ab3 in Cipola et al. 2018
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of fusiform
+
+[Term]
+id: morphology
+is_a: quality
+
+[Term]
+id: mouthparts
+is_a: object_cluster ! object cluster
+
+[Term]
+id: mucro
+is_a: furcula_segment ! furcula segment
+
+[Term]
+id: mucronal_spine
+name: mucronal spine
+is_a: process
+relationship: has_part basal_spinelete ! basal spinelete
+
+[Term]
+id: mucronal_teeth
+name: basal mucronal tooth
+is_a: mucronal_tooth ! mucronal tooth
+
+[Term]
+id: mucronal_tooth
+name: mucronal tooth
+is_a: teeth ! tooth
+
+[Term]
+id: multi-tissue_structure
+name: multi-tissue structure
+is_a: anatomical_structure ! anatomical structure
+
+[Term]
+id: normal
+is_a: deviation(from_normal) ! deviation(from normal)
+
+[Term]
+id: normal_length
+name: normal length
+is_a: length
+
+[Term]
+id: normal_size
+name: normal size
+is_a: size
+
+[Term]
+id: normal_thickness
+is_a: thickness
+
+[Term]
+id: number
+is_a: quality
+
+[Term]
+id: object_cluster
+name: object cluster
+is_a: material_entity_cluster ! material entity cluster
+
+[Term]
+id: object_group
+name: object group
+is_a: 'material_entity_group' ! material entity group
+
+[Term]
+id: oblong
+is_a: 2-D_shape ! 2-D shape
+
+[Term]
+id: ocellus
+is_a: multi-tissue_structure ! multi-tissue structure
+
+[Term]
+id: ocellus_C
+name: ocellus C
+is_a: ocellus
+relationship: bearer_of normal_size ! normal size
+
+[Term]
+id: ocellus_F
+name: ocellus F
+is_a: ocellus
+relationship: bearer_of normal_size ! normal size
+
+[Term]
+id: ocellus_G
+name: ocellus G
+is_a: ocellus
+
+[Term]
+id: ocellus_H
+name: ocellus H
+is_a: ocellus
+
+[Term]
+id: organism_subdivision
+name: organism subdivision
+is_a: anatomical_structure ! anatomical structure
+
+[Term]
+id: p.ab1_row
+name: row p.ab1
+is_a: row
+
+[Term]
+id: p.ab2_row
+name: row p.ab2
+is_a: row
+
+[Term]
+id: p.ab3_row
+name: row p.ab3
+is_a: row
+
+[Term]
+id: p.ab5_row
+name: row p.ab5
+is_a: row
+
+[Term]
+id: p.h
+name: chaeta p.h
+is_a: interocular_chaetae ! interocular chaeta
+relationship: bearer_of macrochaeta
+
+[Term]
+id: p.t2_row
+name: row p.t2
+is_a: row
+
+[Term]
+id: p.t3_row
+name: row p.t3
+is_a: row
+
+[Term]
+id: p1.ab5
+name: chaeta p1.ab5
+is_a: fifth_abdominal_segment_chaeta ! fifth abdominal segment chaeta
+
+[Term]
+id: p1.t2
+name: chaeta p1.t2
+is_a: second_thoracic_segment_chaeta ! second thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p1.t3
+name: chaeta p1.t3
+is_a: third_thoracic_segment_chaeta ! third thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p2.t2
+name: chaeta p2.t2
+is_a: second_thoracic_segment_chaeta ! second thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p2.t3
+name: chaeta p2.t3
+is_a: third_thoracic_segment_chaeta ! third thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p3.ab3
+name: chaeta p3.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p3.ab5
+name: chaeta p3.ab5
+is_a: fifth_abdominal_segment_chaeta ! fifth abdominal segment chaeta
+
+[Term]
+id: p3.t2
+name: chaeta p3.t2
+is_a: second_thoracic_segment_chaeta ! second thoracic segment chaeta
+
+[Term]
+id: p3.t3
+name: chaeta p3.t3
+is_a: third_thoracic_segment_chaeta ! third thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p4.ab2
+name: chaeta p4.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p4.ab3
+name: chaeta p4.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p4.ab5
+name: chaeta p4.ab5
+is_a: fifth_abdominal_segment_chaeta ! fifth abdominal segment chaeta
+relationship: bearer_of macrochaeta
+
+[Term]
+id: p4.t2
+name: chaeta p4.t2
+is_a: second_thoracic_segment_chaeta ! second thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p4.t3
+name: chaeta p4.t3
+is_a: third_thoracic_segment_chaeta ! third thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p5.ab1
+name: chaeta p5.ab1
+is_a: first_abdominal_segment_chaeta ! first abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p5.ab2
+name: chaeta p5.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p5.ab3
+name: chaeta p5.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p5.ab5
+name: chaeta p5.ab5
+is_a: fifth_abdominal_segment_chaeta ! fifth abdominal segment chaeta
+
+[Term]
+id: p5.t2
+name: chaeta p5.t2
+is_a: second_thoracic_segment_chaeta ! second thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p5.t3
+name: chaeta p5.t3
+is_a: third_thoracic_segment_chaeta ! third thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p5a.ab5
+name: chaeta p5a.ab5
+is_a: fifth_abdominal_segment_chaeta ! fifth abdominal segment chaeta
+
+[Term]
+id: p6.ab1
+name: chaeta p6.ab1
+is_a: first_abdominal_segment_chaeta ! first abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p6.ab2
+name: chaeta p6.ab2
+is_a: second_abdominal_segment_chaeta ! second abdominal segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p6.ab3
+name: chaeta p6.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of macrochaeta
+
+[Term]
+id: p6.t2
+name: chaeta p6.t2
+is_a: second_thoracic_segment_chaeta ! second thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p6.t3
+name: chaeta p6.t3
+is_a: third_thoracic_segment_chaeta ! third thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p6e.t2
+name: chaeta p6e.t2
+is_a: second_thoracic_segment_chaeta ! second thoracic segment chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: p7.ab3
+name: chaeta p7.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of macrochaeta
+
+[Term]
+id: paired
+is_a: number
+
+[Term]
+id: palpus
+is_a: object_cluster ! object cluster
+
+[Term]
+id: papillae
+name: papilla
+is_a: process
+
+[Term]
+id: papillae_A
+name: labial papilla A
+is_a: labial_papilla ! labial papilla
+relationship: has_part guard_appendages {cardinality="0"} ! guard appendages
+
+[Term]
+id: papillae_B
+name: labial papilla B
+is_a: labial_papilla ! labial papilla
+relationship: has_part guard_appendages {cardinality="4"} ! guard appendages
+
+[Term]
+id: papillae_C
+name: labial papilla C
+is_a: labial_papilla ! labial papilla
+relationship: has_part guard_appendages {cardinality="0"} ! guard appendages
+
+[Term]
+id: papillae_D
+name: labial papilla D
+is_a: labial_papilla ! labial papilla
+relationship: has_part guard_appendages {cardinality="3"} ! guard appendages
+
+[Term]
+id: papillae_E
+name: labial papilla E
+is_a: labial_papilla ! labial papilla
+relationship: has_part guard_appendages {minCardinality="3"} ! guard appendages
+
+[Term]
+id: papillae_H
+name: labial papilla H
+is_a: labial_papilla ! labial papilla
+relationship: has_part guard_appendages {minCardinality="1"} ! guard appendages
+
+[Term]
+id: pe
+name: chaeta pe
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of triangular
+
+[Term]
+id: pi
+name: chaeta pi
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of triangular
+
+[Term]
+id: plurichaetosis
+is_a: vestiture
+
+[Term]
+id: pm6.ab3
+name: chaeta pm6.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+relationship: bearer_of macrochaeta
+
+[Term]
+id: pointed
+is_a: convex_3-D_shape ! convex 3-D shape
+
+[Term]
+id: posterior_postoccipital_row
+name: posterior postoccipital row
+is_a: cephalic_row ! cephalic row
+relationship: has_part chaeta {cardinality="0"}
+
+[Term]
+id: posterior_side
+name: posterior side
+is_a: anatomical_side ! anatomical side
+
+[Term]
+id: posterolateral_side
+name: posterolateral side
+is_a: anatomical_side ! anatomical side
+
+[Term]
+id: posteroventral_side
+name: posteroventral side
+is_a: anatomical_side ! anatomical side
+
+[Term]
+id: postlabial_area
+name: postlabial area
+is_a: area
+relationship: bearer_of conical
+relationship: has_part chaeta {cardinality="2"}
+
+[Term]
+id: postlabial_chaetae
+name: postlabial chaeta
+is_a: chaeta
+relationship: bearer_of ciliated
+relationship: bearer_of decreased_size ! decreased size
+relationship: has_part chaeta {cardinality="2"}
+
+[Term]
+id: postsutural_row
+name: postsutural row
+is_a: cephalic_row ! cephalic row
+relationship: has_part chaeta {cardinality="3"}
+
+[Term]
+id: prefrontal_chaeta
+name: prefrontal chaeta
+is_a: clypeal_chaetae ! clypeal chaeta
+
+[Term]
+id: prelabral_chaetae
+name: prelabral chaeta
+is_a: chaeta
+
+[Term]
+id: process
+is_a: area
+
+[Term]
+id: procoxae
+name: procoxa
+is_a: coxae ! coxa
+relationship: has_part chaeta {cardinality="0"}
+relationship: has_part external_side ! external side
+relationship: has_part pseudopore {cardinality="0"}
+
+[Term]
+id: profemur
+is_a: femur
+
+[Term]
+id: projection
+is_a: process
+
+[Term]
+id: proleg
+is_a: leg
+relationship: bearer_of white
+relationship: has_part color_background ! color background
+
+[Term]
+id: prosubcoxae
+name: prosubcoxa
+is_a: subcoxae ! subcoxa
+
+[Term]
+id: protibiotarsus
+is_a: tibiotarsus
+
+[Term]
+id: proximal_chaeta
+name: proximal chaeta
+is_a: chaeta
+relationship: bearer_of smooth
+
+[Term]
+id: proximal_labral_chaetae
+name: proximal labral chaeta
+is_a: labral_chaetae ! labral chaeta
+relationship: bearer_of increased_thickness
+relationship: bearer_of smooth
+
+[Term]
+id: proximal_side
+name: proximal side
+is_a: anatomical_side ! anatomical side
+
+[Term]
+id: ps.ab3
+name: chaeta ps.ab3
+is_a: third_abdominal_segment_chaeta ! third abdominal segment chaeta
+
+[Term]
+id: pseudopore
+is_a: integument
+
+[Term]
+id: purple
+is_a: color
+
+[Term]
+id: q.h
+name: chaeta q.h
+is_a: interocular_chaetae ! interocular chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: qualitative
+is_a: quality
+
+[Term]
+id: r.h
+name: chaeta r.h
+is_a: interocular_chaetae ! interocular chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: r.lb
+name: chaeta r.lb
+is_a: labial_chaeta ! labial chaeta
+relationship: bearer_of decreased_size ! decreased size
+
+[Term]
+id: r_row
+name: row r
+is_a: row
+
+[Term]
+id: rod_shaped
+name: rod-shaped
+is_a: 2-D_shape ! 2-D shape
+
+[Term]
+id: rounded
+is_a: 2-D_shape ! 2-D shape
+
+[Term]
+id: row
+is_a: object_group ! object group
+
+[Term]
+id: row_A.h
+name: row A.h
+is_a: row
+
+[Term]
+id: row_Ee
+name: row Ee
+is_a: row
+
+[Term]
+id: row_a.ab5
+name: row a.ab5
+is_a: row
+
+[Term]
+id: row_d.ab3
+name: row d.ab3
+is_a: row
+
+[Term]
+id: row_of_chaeta
+name: row of chaeta
+is_a: row
+
+[Term]
+id: row_r
+name: row r
+is_a: row
+relationship: has_part chaeta {cardinality="0"}
+
+[Term]
+id: row_sa
+is_a: row
+relationship: has_part s-chaeta {cardinality="0"}
+
+[Term]
+id: row_sm
+is_a: row
+relationship: has_part s-chaeta {cardinality="1"}
+
+[Term]
+id: s
+name: chaeta s
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+relationship: bearer_of triangular
+
+[Term]
+id: s-chaeta
+is_a: fourth_abdominal_segment_chaeta ! fourth abdominal segment chaeta
+
+[Term]
+id: s.h
+name: chaeta s.h
+is_a: interocular_chaetae ! interocular chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: scaled
+is_a: texture
+
+[Term]
+id: second_abdominal_segment_chaeta
+name: second abdominal segment chaeta
+is_a: abdominal_chaeta ! abdominal chaeta
+
+[Term]
+id: second_thoracic_segment_chaeta
+name: second thoracic segment chaeta
+is_a: thoracic_chaeta ! thoracic chaeta
+
+[Term]
+id: secundary_antennal_chaeta
+name: secundary antennal chaeta
+is_a: object_group ! object group
+
+[Term]
+id: segment
+is_a: object_cluster ! object cluster
+
+[Term]
+id: sense_organ
+name: sense organ
+is_a: anatomical_structure ! anatomical structure
+
+[Term]
+id: sensillum
+is_a: cuticular_projection ! cuticular projection
+
+[Term]
+id: serrated
+is_a: serration
+
+[Term]
+id: serration
+is_a: edge_shape
+
+[Term]
+id: shape
+is_a: morphology
+
+[Term]
+id: sharpness
+is_a: shape
+
+[Term]
+id: size
+is_a: morphology
+
+[Term]
+id: smooth
+is_a: texture
+
+[Term]
+id: spatulate
+name: spatulated
+is_a: oblong
+
+[Term]
+id: spicule
+is_a: cuticular_projection ! cuticular projection
+
+[Term]
+id: spine
+is_a: spicule
+
+[Term]
+id: spinule
+is_a: spicule
+
+[Term]
+id: spot
+is_a: color_pattern ! color pattern
+
+[Term]
+id: subcoxae
+name: subcoxa
+is_a: leg_segment ! leg segment
+
+[Term]
+id: subdistal_side
+name: subdistal side
+is_a: anatomical_side ! anatomical side
+
+[Term]
+id: sublobal_appendage
+name: sublobal appendage
+is_a: appendage
+
+[Term]
+id: sublobal_plate
+is_a: area
+relationship: has_part sublobal_appendage {cardinality="3"} ! sublobal appendage
+
+[Term]
+id: supplementary_chaetae
+name: supplementary chaeta
+is_a: chaeta
+
+[Term]
+id: sutural_row
+name: sutural row
+is_a: cephalic_row ! cephalic row
+relationship: has_part chaeta {cardinality="6"}
+
+[Term]
+id: t.h
+name: chaeta t.h
+is_a: interocular_chaetae ! interocular chaeta
+relationship: bearer_of microchaeta
+
+[Term]
+id: tagma
+is_a: organism_subdivision ! organism subdivision
+
+[Term]
+id: teeth
+name: tooth
+is_a: projection
+
+[Term]
+id: tenent_hair
+name: tenent hair
+is_a: chaeta
+relationship: bearer_of spatulate ! spatulated
+
+[Term]
+id: texture
+is_a: morphology
+
+[Term]
+id: thickness
+is_a: quality
+
+[Term]
+id: third_abdominal_segment_chaeta
+name: third abdominal segment chaeta
+is_a: abdominal_chaeta ! abdominal chaeta
+
+[Term]
+id: third_thoracic_segment_chaeta
+name: third thoracic segment chaeta
+is_a: thoracic_chaeta ! thoracic chaeta
+
+[Term]
+id: thoracic_chaeta
+name: thoracic chaeta
+is_a: chaeta
+
+[Term]
+id: thoracic_segment
+name: thoracic segment
+is_a: segment
+relationship: bearer_of color_background ! color background
+relationship: bearer_of white
+
+[Term]
+id: thorax
+is_a: tagma
+
+[Term]
+id: tibiotarsus
+is_a: leg_segment ! leg segment
+
+[Term]
+id: triangular
+is_a: 2-D_shape ! 2-D shape
+
+[Term]
+id: trifurcate
+is_a: branched
+
+[Term]
+id: trochanteral_organ
+name: trochanteral organ
+is_a: object_group ! object group
+relationship: bearer_of v_shaped ! v-shaped
+relationship: has_part chaeta {minCardinality="15"}
+
+[Term]
+id: truncated
+is_a: shape
+
+[Term]
+id: ungues
+name: unguis
+is_a: foot_complex ! foot complex
+relationship: has_part teeth {cardinality="4"} ! tooth
+relationship: located_in internal_side ! internal side
+
+[Term]
+id: ungues_apical_tooth
+name: apical ungues tooth
+is_a: ungues_tooth ! ungues tooth
+relationship: bearer_of unpaired
+relationship: has_part teeth {cardinality="1"} ! tooth
+
+[Term]
+id: ungues_basal_teeth
+name: proximal ungues tooth
+is_a: ungues_tooth ! ungues tooth
+relationship: bearer_of paired
+relationship: has_part teeth {cardinality="2"} ! tooth
+
+[Term]
+id: ungues_median_tooth
+name: median ungues tooth
+is_a: ungues_tooth ! ungues tooth
+relationship: bearer_of unpaired
+relationship: has_part teeth {cardinality="1"} ! tooth
+
+[Term]
+id: ungues_tooth
+name: ungues tooth
+is_a: teeth ! tooth
+
+[Term]
+id: unguiculus
+is_a: foot_complex ! foot complex
+relationship: bearer_of external_side ! external side
+relationship: bearer_of internal_side ! internal side
+relationship: bearer_of smooth
+relationship: bearer_of smooth
+relationship: bearer_of truncated
+
+[Term]
+id: unpaired
+is_a: number
+
+[Term]
+id: unserrated
+is_a: serration
+
+[Term]
+id: v_shaped
+name: v-shaped
+is_a: 2-D_shape ! 2-D shape
+
+[Term]
+id: vestiture
+is_a: multi-tissue_structure ! multi-tissue structure
+
+[Term]
+id: white
+is_a: color
+
+[Term]
+id: yellowish
+is_a: color
+
+[Typedef]
+id: inheres_in
+is_transitive: true
+
